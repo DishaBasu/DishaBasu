@@ -25,5 +25,4 @@ I also have a strong passion for research and am currently engaged in exploring 
 
 ### 🔗 Connect with Me
 * [LinkedIn] www.linkedin.com/in/dishabasu7
-* [LeetCode] https://leetcode.com/u/dishabasu_07/
 * Email: dishabasu07@gmail.com 
